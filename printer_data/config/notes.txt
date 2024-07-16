@@ -18,6 +18,7 @@ All Skirts had mesh applied using Steve Builds tutorial (you tube).
 Voron Tap (ChaoticLab 2): https://www.amazon.com/gp/product/B0CKYTQVDS
 AngryCam: https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ
 Klippain ShakeTune: https://github.com/Frix-x/klippain-shaketune?tab=readme-ov-file
+TMC Autotune: https://github.com/andrewmcgr/klipper_tmc_autotune
 
 
 ToDo:
