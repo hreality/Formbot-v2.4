@@ -1,3 +1,36 @@
+RIP (Rebuilt in Progress).. Freakin Tweaking!
+Changes:
+EBB2240 CanBus (use U2C) *Loose Deck Chains & wiring (Yay!)
+Light Load MGN12 *Went from R1-R2
+Voron Tap
+Beefy Idlers
+G5 Bearing Z Joints
+3/4” Guitar Amp Feet
+
+Filament Used:
+PolyMaker Metallic Green Primary/ Metallic Green Secondary
+https://www.amazon.com/gp/product/B0C4LL7R43
+https://www.amazon.com/gp/product/B0C4LP582L
+
+Mods or Alterations:
+Klipper Backup: https://github.com/Staubgeborener/klipper-backup
+All Skirts had mesh applied using Steve Builds tutorial (you tube).
+Voron Tap (ChaoticLab 2): https://www.amazon.com/gp/product/B0CKYTQVDS
+AngryCam: https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ
+
+
+ToDo:
+
+Notes:
+
+
+
+
+
+
+
+
+
 Canbus UUID: 34bb5199650f
 Flashing via katapult:
 python3 ~/katapult/scripts/flashtool.py -i can0 -u 34bb5199650f -f ~/klipper/out/klipper.bin
