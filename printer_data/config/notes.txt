@@ -25,7 +25,8 @@ ToDo:
 Still tweaking and putting data in here..
 
 Notes:
-
+TMC Autotune:  So, installed  it (works in conjunction with Klippain) and couldnt get sensorless to function despite the 'guide' directions.  I seem to have it resolved by reading nuggets from the issues.
+Changed homing speed from 25 to 45.. then ran the sequence for Klippain again. Seems to be doing as its supposed to.
 
 
 
